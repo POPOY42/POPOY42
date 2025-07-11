@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @POPOY42, 1st year BSIT student
+- 👋 Hi, I’m @Fraulein, 2nd year BSIT student
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c++ / HTML/ CSS
+- 🌱 I’m currently learning c++ / HTML/ CSS/ JS
+-     An aspiring Web Developer and Software Engineer
 - 💞️ I’m looking to collaborate on the developers to expand my knowledge about coding
 - 📫 email: frauleincabanayan@gmail.com
 - 😄 Pronouns: he
