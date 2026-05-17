@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fraulein, 2nd year BSIT student
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning c++ / HTML/ CSS/ JS
+HTML/CSS/JS/PHP/REACT/MySQL/JAVA
 -     An aspiring Web Developer and Software Engineer
 - 💞️ I’m looking to collaborate on the developers to expand my knowledge about coding
 - 📫 email: frauleincabanayan@gmail.com
