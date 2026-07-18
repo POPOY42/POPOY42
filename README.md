@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fraulein, 2nd year BSIT student
+- 👋 Hi, I’m @Fraulein, 3rd year BSIT student
 - 👀 I’m interested in coding 
 HTML/CSS/JS/PHP/REACT/MySQL/JAVA/MongoDB,Express,NODE.js
 -     An aspiring Web Developer and Software Engineer
